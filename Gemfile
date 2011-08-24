@@ -14,4 +14,5 @@ group :development do
   gem 'activerecord', '~> 3.0.5'
   gem 'activerecord-jdbc-adapter'
   gem 'activerecord-oracle_enhanced-adapter', :require => false
+  gem 'watchr'
 end
